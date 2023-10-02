@@ -11,3 +11,5 @@ description: Testing sync from Obsidian + git
 ---
 # Test content from Obsidian
 Obsidian qq
+
+another test blog
